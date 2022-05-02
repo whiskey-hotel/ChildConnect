@@ -1,5 +1,6 @@
 import { FontAwesome } from '@expo/vector-icons';
 import * as Font from 'expo-font';
+import * as googleFonts from "@expo-google-fonts/open-sans"
 import * as SplashScreen from 'expo-splash-screen';
 import * as React from 'react';
 
