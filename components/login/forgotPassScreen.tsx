@@ -41,9 +41,9 @@ function InitialScreen() {
 	return (
 		<View style={styles.body}>
 			<View style={styles.container}>
-				<Text style={styles.header}>Forgot your Password?</Text>
+				<Text style={styles.header}>Forgot your password?</Text>
 				<Text style={styles.subHeader}>
-					Enter your registered email below to recieve password reset instruction
+					Enter your registered email below to receive password reset instructions
 				</Text>
 				
                 <Icon
